@@ -28,4 +28,5 @@ public final class Carrier {
         }
         return new Carrier(email, login, password);
     }
+
 }
